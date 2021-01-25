@@ -14,4 +14,4 @@ Práticas de conceitos aprendidos na apostila  **FJ-11 do Caelum**:
 * Arrays
 * Collections Framework(List, ArrayList, Set, Map) 
 
-Veja os códigos para ver com mais detalhes o que aprendi durante o curso.
+Veja os códigos para ver com mais detalhes o que aprendi da apostila.
