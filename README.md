@@ -1,6 +1,6 @@
 # Caelum: FJ-11 (Java e Orientação a Objetos)
 
-Práticas de conceitos aprendidos na apostila **FJ-11** do <a href="https://www.caelum.com.br/apostilas">**Caelum**</a>:
+Práticas de conceitos aprendidos na apostila **FJ-11 (Java e Orientação a Objetos)** do <a href="https://www.caelum.com.br/apostilas">**Caelum**</a>:
 
 * Pacotes
 * Modificadores de acesso (private, protect e public)
